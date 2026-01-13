@@ -1,5 +1,10 @@
 ### Software Engineer and Game Developer
 I’m passionate about building games, tools, and systems that push creativity and technical problem-solving. Most of my journey has been through C++ game development, but I also enjoy working with web technologies and experimenting with new ideas.
+
+I’m from Mexico 🇲🇽
+
+Currently living in Tulare, California, USA 🇺🇸
+
 # Experienced
 - **C++**: Most of my gamedev journey has been in C++ in projects such as [Pixel-Dynasty](https://github.com/Goshoon/Pixel-Dynasty)
 - **Python**: Working on my thesis (face recognition project).
