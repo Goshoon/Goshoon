@@ -7,7 +7,7 @@ Currently living in Tulare, California, USA 🇺🇸
 
 # Experienced
 - **C++**: Most of my gamedev journey has been in C++ in projects such as [Pixel-Dynasty](https://github.com/Goshoon/Pixel-Dynasty)
-- **Python**: Working on my thesis ([face recognition project](https://github.com/AntonioLara289/bunny_finance_py.git)).
+- **Python**: Working on my thesis [face recognition project](https://github.com/AntonioLara289/bunny_finance_py.git).
 - **Javascript**: Familiar with frameworks like Node.js and Laravel, applied extensively in university projects.
 
 # Proficient
